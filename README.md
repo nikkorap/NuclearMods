@@ -9,7 +9,7 @@ tldr:
 3. Start the game once to generate configuration files.
 4. Open [Nuclear Option\BepInEx\config\BepInEx.cfg] and make sure that the setting [Chainloader]
  -> HideGameManagerObject = true.
-5. (optional) also edit [Logging.Console]]-> Enabled = true.
+5. (optional) also edit [Logging.Console]-> Enabled = true.
 
 6. 
 how to install mods for BepInEx?
