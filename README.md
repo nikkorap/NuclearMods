@@ -13,9 +13,9 @@ tldr:
 
 6. 
 how to install mods for BepInEx?
-- For your first mod download this mod: [Mod Configuration manager]
-   [https://github.com/BepInEx/BepInEx.ConfigurationManager]
-   This is an awesome plugin that gives you an ingame mod menu to control mods (i try to add support for it in my mods) [TOGGLE WITH F1]
+- For your first mod download this mod: [Mod Configuration manager][https://github.com/BepInEx/BepInEx.ConfigurationManager]
+- This is an awesome plugin that gives you an ingame mod menu to control mods (i try to add support for it in my mods) [TOGGLE WITH F1]
+  ![ModMenuDemo](https://github.com/user-attachments/assets/6ee561c4-f2ac-4798-9896-a3dc8bca9714)
 - in the downloaded zip file there is a BepInEx folder, you can drop it right in the install folder.
 - Some other mods might be just .dll files, drop those in the [Nuclear Option\BepInEx\plugins\(optional folder)] folder
 
@@ -24,6 +24,8 @@ how to install mods for BepInEx?
 
 ## DetailedClimbRate
 Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or feet if you're into that)
+
+![DetailedClimbrateReadingDemo](https://github.com/user-attachments/assets/01976472-8195-40bd-b43a-3ad231a3c60f)
 
 ## 155mm_Railgun
 replaces the Ifrit's 27mm Autocannon with the Dynamos 155mm Railgun, also adds it to every hardpoint.
