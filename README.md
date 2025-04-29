@@ -13,11 +13,11 @@ tldr:
 
 6. 
 how to install mods for BepInEx?
-- For your first mod i suggest downloading this mod: [Mod Configuration manager]
+- For your first mod download this mod: [Mod Configuration manager]
    [https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v18.4/BepInEx.ConfigurationManager_BepInEx5_v18.4.zip]
    This is an awesome plugin that gives you an ingame mod menu to control mods (i try to add support for it in my mods) [TOGGLE WITH F1]
 - in the downloaded zip file there is a BepInEx folder, you can drop it right in the install folder.
-- Some other mods might be just .dll files, drop those in the [Nuclear Option\BepInEx\plugins] folder
+- Some other mods might be just .dll files, drop those in the [Nuclear Option\BepInEx\plugins\(optional folder)] folder
 
 ## My Mods
 # Don't even try these in public lobbies, if i find out i'm going to [redacted]. it won't work anyway if the host doesn't have it activated.
