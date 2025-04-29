@@ -19,8 +19,10 @@ how to install mods for BepInEx?
 - in the downloaded zip file there is a BepInEx folder, you can drop it right in the install folder.
 - Some other mods might be just .dll files, drop those in the [Nuclear Option\BepInEx\plugins\(optional folder)] folder
 
-## My Mods
-# Don't even try these in public lobbies, if i find out i'm going to [redacted]. it won't work anyway if the host doesn't have it activated.
+# My Mods
+## Only use in private lobbies with everyone's consent.
+Don't even try these in public lobbies, if i find out i'm going to [REDACTED].
+it won't work anyway if the host doesn't have it activated.
 
 ## DetailedClimbRate
 Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or feet if you're into that)
@@ -30,11 +32,15 @@ Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or f
 ## 155mm_Railgun
 replaces the Ifrit's 27mm Autocannon with the Dynamos 155mm Railgun, also adds it to every hardpoint.
 
+![railgundemo](https://github.com/user-attachments/assets/dfc22fc2-e855-4fea-88db-269287ffe446)
+
 ## RubberBullets
 Targets dying too quick? want to prank your teammates with fake missiles? want to unscrew the detonator from your bombs and see if you can get someone with pure kinetic energy? then this mod is for you!
 
 ## UnrestrictedWeapons
 Want more guns? More Bombs? whatever you want, you can have it, if your airframe can handle it. 
+
+![unrestrictedweaponsdemo](https://github.com/user-attachments/assets/9d16515a-b27e-448f-b571-c3d476d4c337)
 
 ## RandomLoadouts_client
 Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then let the dice choose your next loadout! (should work with unrestricted weapons too if the server supports it)
