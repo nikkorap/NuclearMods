@@ -9,7 +9,7 @@ tldr:
 3. Start the game once to generate configuration files.
 4. Open [Nuclear Option\BepInEx\config\BepInEx.cfg] and make sure that the setting [Chainloader]
  -> HideGameManagerObject = true.
-5. (optional) also edit [Logging.Console]-> Enabled = true.
+5. (optional) also edit [Logging.Console]-> Enabled = true. (you can also change bepinex settings ingame using the Mod Configuration manager)
 
 6. 
 how to install mods for BepInEx?
@@ -53,4 +53,5 @@ Hosting a game and want to add some excitement to your players? Make it unfair f
 ## namegrabber
 not intended for gameplay, i made this to help missionmakers. it creates a .txt file with unit's internal names and ingame names, like this: ([Aircraft][AttackHelo1][SAH-46 Chicane][The SAH-46 Chicane retains a traditional attack helicopter configuation while incorporating upgrades that keep it a formidable presence on the battlefield of the late 21st Century. Cutting edge stealth technology allows the Chicane to conduct pop-up attacks from behind terrain and disappear from radar without a trace.])
 
-
+# TODO
+figure out networking black magic and try syncing config settings between host and clients.
