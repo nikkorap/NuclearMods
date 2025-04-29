@@ -57,3 +57,5 @@ not intended for gameplay, i made this to help missionmakers. it creates a .txt 
 
 # TODO
 figure out networking black magic and try syncing config settings between host and clients.
+- Loadout preset mod?
+- more mods?
