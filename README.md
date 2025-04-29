@@ -2,6 +2,7 @@
 My BepInEx mods for Nuclear Option
 
 How to install BepInEx (5 mono) guide [https://docs.bepinex.dev/articles/user_guide/installation/index.html]
+
 tldr:
 1. Download the correct version of BepInEx [https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip]
 2. Extract the contents into the game root (where [NuclearOption.exe] lives)
