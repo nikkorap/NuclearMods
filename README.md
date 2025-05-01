@@ -25,8 +25,7 @@ TLDR:
 
 # My Mods
 ## Only use in private lobbies with everyone's consent.
-Don't even try these in public lobbies, if i find out i'm going to [REDACTED].
-they won't work anyway if the host doesn't have the mod active.
+These won't work in lobbies where the host doesn't have the mod active. Don't even try, if i find out i'm going to [REDACTED].
 
 ## DetailedClimbRate
 Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or feet if you're into that)
