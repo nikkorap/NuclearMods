@@ -64,7 +64,7 @@ Hosting a game and want to add some excitement to your players? Make it unfair f
 not intended for gameplay, i made this to help missionmakers. it creates a .txt file with unit's internal names and ingame names, like this: ([Aircraft][AttackHelo1][SAH-46 Chicane][The SAH-46 Chicane retains a traditional attack helicopter configuation while incorporating upgrades that keep it a formidable presence on the battlefield of the late 21st Century. Cutting edge stealth technology allows the Chicane to conduct pop-up attacks from behind terrain and disappear from radar without a trace.])
 
 # TODO
-figure out networking black magic and try syncing config settings between host and clients.
-- Loadout preset mod?
+- figure out networking black magic and try syncing config settings between host and clients.
+- Loadout preset mod? -done'ish
 - custom waypoint/marker?
 - more mods?
