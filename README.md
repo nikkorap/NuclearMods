@@ -24,13 +24,22 @@ TLDR:
 - Some other mods might be just .dll files, drop those in the [Nuclear Option\BepInEx\plugins\(optional folder)] folder
 
 # My Mods
+these mods might be kinda scuffed so i give no guarantees about their functionality or stuff not breaking.
+
 ## Only use in private lobbies with everyone's consent.
 These won't work in lobbies where the host doesn't have the mod active. Don't even try, if i find out i'm going to [REDACTED].
 
+# Quality of life
 ## DetailedClimbRate
 Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or feet if you're into that)
 
 ![DetailedClimbrateReadingDemo](https://github.com/user-attachments/assets/01976472-8195-40bd-b43a-3ad231a3c60f)
+
+## Custom Default Loadouts
+Set your preferred Livery, weapons, and fuel level as the new defaults! 
+
+## Scrolling weapon selection
+Cant be bothered to click each hardpoint and weapon each time? just hover over the button and scroll your wheel to change the weapon!
 
 ## 155mm_Railgun
 replaces the Ifrit's 27mm Autocannon with the Dynamos 155mm Railgun, also adds it to every hardpoint.
