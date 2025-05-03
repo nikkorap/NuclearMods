@@ -1,6 +1,8 @@
 # NuclearMods
 My BepInEx mods for Nuclear Option
 
+# Still using Melonloader? please get rid of it
+
 # How to install BepInEx (5 mono) guide [https://docs.bepinex.dev/articles/user_guide/installation/index.html]
 
 TLDR:
@@ -59,6 +61,9 @@ Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then le
 
 ## RandomLoadouts_Host
 Hosting a game and want to add some excitement to your players? Make it unfair for everyone equally and force everyone to roll the dice every time they step into the cockpit! (afaik others can be completely modless peasants! though mods are still recommended) (should work with unrestricted weapons too)
+
+## WSO Yapper
+Get totally-not-Prez to yap at you while you fly
 
 ## namegrabber
 not intended for gameplay, i made this to help missionmakers. it creates a .txt file with unit's internal names and ingame names, like this: ([Aircraft][AttackHelo1][SAH-46 Chicane][The SAH-46 Chicane retains a traditional attack helicopter configuation while incorporating upgrades that keep it a formidable presence on the battlefield of the late 21st Century. Cutting edge stealth technology allows the Chicane to conduct pop-up attacks from behind terrain and disappear from radar without a trace.])
