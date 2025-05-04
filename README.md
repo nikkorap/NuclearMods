@@ -31,7 +31,7 @@ these mods might be kinda scuffed so i give no guarantees about their functional
 ## Only use in private lobbies with everyone's consent.
 These won't work in lobbies where the host doesn't have the mod active. Don't even try, if i find out i'm going to [REDACTED].
 
-# Quality of life
+# Clientside / Quality of life
 ## DetailedClimbRate
 Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or feet if you're into that)
 
@@ -42,6 +42,25 @@ Set your preferred Livery, weapons, and fuel level as the new defaults!
 
 ## Scrolling weapon selection
 Cant be bothered to click each hardpoint and weapon each time? just hover over the button and scroll your wheel to change the weapon!
+
+## RandomLoadouts_client
+Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then let the dice choose your next loadout! (should work with unrestricted weapons too if the server supports it)
+
+## WSO Yapper
+Get totally-not-Prez to yap at you while you fly
+
+# HostSide
+Only the host needs these mods for them to work for everyone
+
+## DetectionDisable
+You can completely disable Visual detection or Radar detection, or both!
+
+## RandomLoadouts_Host
+Hosting a game and want to add some excitement to your players? Make it unfair for everyone equally and force everyone to roll the dice every time they step into the cockpit! (afaik others can be completely modless peasants! though mods are still recommended) (should work with unrestricted weapons too)
+
+
+# Other
+All players need these mods for them to function correctly
 
 ## 155mm_Railgun
 replaces the Ifrit's 27mm Autocannon with the Dynamos 155mm Railgun, also adds it to every hardpoint.
@@ -55,15 +74,6 @@ Targets dying too quick? want to prank your teammates with fake missiles? want t
 Want more guns? More Bombs? whatever you want, you can have it, if your airframe can handle it. 
 
 ![unrestrictedweaponsdemo](https://github.com/user-attachments/assets/9d16515a-b27e-448f-b571-c3d476d4c337)
-
-## RandomLoadouts_client
-Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then let the dice choose your next loadout! (should work with unrestricted weapons too if the server supports it)
-
-## RandomLoadouts_Host
-Hosting a game and want to add some excitement to your players? Make it unfair for everyone equally and force everyone to roll the dice every time they step into the cockpit! (afaik others can be completely modless peasants! though mods are still recommended) (should work with unrestricted weapons too)
-
-## WSO Yapper
-Get totally-not-Prez to yap at you while you fly
 
 ## namegrabber
 not intended for gameplay, i made this to help missionmakers. it creates a .txt file with unit's internal names and ingame names, like this: ([Aircraft][AttackHelo1][SAH-46 Chicane][The SAH-46 Chicane retains a traditional attack helicopter configuation while incorporating upgrades that keep it a formidable presence on the battlefield of the late 21st Century. Cutting edge stealth technology allows the Chicane to conduct pop-up attacks from behind terrain and disappear from radar without a trace.])
