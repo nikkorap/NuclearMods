@@ -43,6 +43,9 @@ Set your preferred Livery, weapons, and fuel level as the new defaults!
 ## Scrolling weapon selection
 Cant be bothered to click each hardpoint and weapon each time? just hover over the button and scroll your wheel to change the weapon!
 
+## FCSToggle
+When disabling stability assist just isn't enough.
+
 ## RandomLoadouts_client
 Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then let the dice choose your next loadout! (should work with unrestricted weapons too if the server supports it)
 
