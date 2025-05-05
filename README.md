@@ -31,6 +31,7 @@ these mods might be kinda scuffed so i give no guarantees about their functional
 ## Only use in private lobbies with everyone's consent.
 These won't work in lobbies where the host doesn't have the mod active. Don't even try, if i find out i'm going to [REDACTED].
 
+
 # Clientside / Quality of life
 ## DetailedClimbRate
 Is seaskimming too ambigious? then grab this mod to turn 0m/s into 0.00m/s (or feet if you're into that)
@@ -48,6 +49,7 @@ Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then le
 
 ## WSO Yapper
 Get totally-not-Prez to yap at you while you fly
+
 
 # HostSide
 Only the host needs these mods for them to work for everyone
