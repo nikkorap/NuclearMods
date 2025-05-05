@@ -1,5 +1,5 @@
 # NuclearMods
-My BepInEx mods for Nuclear Option
+My BepInEx mods for Nuclear Option, feel free to DM me on discord if you have any questions or ideas.
 
 # Still using Melonloader? please get rid of it
 
