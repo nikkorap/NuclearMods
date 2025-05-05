@@ -56,7 +56,7 @@ Get totally-not-Prez to yap at you while you fly
 Only the host needs these mods for them to work for everyone
 
 ## DetectionDisable
-You can completely disable Visual detection or Radar detection, or both!
+You can completely disable Visual detection or Radar detection, or both! And only rely on the good old MK1 Eyeball
 
 ## RandomLoadouts_Host
 Hosting a game and want to add some excitement to your players? Make it unfair for everyone equally and force everyone to roll the dice every time they step into the cockpit! (afaik others can be completely modless peasants! though mods are still recommended) (should work with unrestricted weapons too)
