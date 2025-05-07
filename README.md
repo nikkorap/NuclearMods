@@ -23,7 +23,7 @@ TLDR:
   ![ModMenuDemo](https://github.com/user-attachments/assets/6ee561c4-f2ac-4798-9896-a3dc8bca9714)
   
 - in the downloaded zip file there is a BepInEx folder, you can drop it right in the install folder.
-- Some other mods might be just .dll files, drop those in the [Nuclear Option\BepInEx\plugins\(optional folder)] folder
+- Some other mods might be just .dll files, drop those in [Nuclear Option\BepInEx\plugins\ (optional folder)]
 
 # My Mods
 these mods might be kinda scuffed so i give no guarantees about their functionality or stuff not breaking.
