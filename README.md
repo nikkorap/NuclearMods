@@ -47,12 +47,18 @@ Cant be bothered to click each hardpoint and weapon each time? just hover over t
 ## RandomLoadouts_client
 Want to be more 𝓡𝓪𝓷𝓭𝓸𝓶? public matches too repetitive? Then let the dice choose your next loadout! (should work with unrestricted weapons too if the server supports it)
 
-## WSO Yapper
+## WSO Yappinator
 Get totally-not-Prez to yap at you while you fly
 
 
 # HostSide
 Only the host needs these mods for them to work for everyone
+
+## Spawnertest
+Basically zeus from arma 3
+
+## OneLifeTest
+All player pilots have one chance, if they crash they get to fly an unarmed (or customisable limited loadout) Chicane or Tarantula until they successfully bring a friendly pilot back to an airbase.
 
 ## DetectionDisable
 You can completely disable Visual detection or Radar detection, or both! And only rely on the good old MK1 Eyeball
