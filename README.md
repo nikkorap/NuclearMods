@@ -1,7 +1,5 @@
-# NuclearMods
+# NuclearMods [For Nuclear Option version 0.30]
 My BepInEx mods for Nuclear Option, feel free to DM me on discord if you have any questions or ideas.
-
-# Still using Melonloader? please get rid of it
 
 # How to install BepInEx (5 mono) guide [https://docs.bepinex.dev/articles/user_guide/installation/index.html]
 
