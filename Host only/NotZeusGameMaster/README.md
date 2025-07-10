@@ -18,4 +18,4 @@ Undo-Redo most actions
 Rebuild nearest airbase
 send message to factions
 
-![image](insertlinkhere)
+![image](https://github.com/nikkorap/NuclearMods/blob/0c3f80ac02ce20f2990bae14cd0d9602c7e3a953/Host%20only/NotZeusGameMaster/image.png)
