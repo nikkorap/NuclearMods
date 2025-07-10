@@ -1,4 +1,4 @@
-## WSO Yappinator
+# WSO Yappinator
 
 Get a variety of characters to yap at you while you fly!
 
@@ -22,7 +22,9 @@ bepinex/plugins/
           └─ audiofiles.wav
 ```
 
-you can easily add your own voicelines by dropping them into the mod's audio/name folder, or make a whole separate voiceline set by making a new folder with .wav files and a eventPriorities.txt file.
+## How to make new Packs
+
+you can add your own voicelines by dropping them into the mod's audio/name folder, or make a whole separate voiceline set by making a new folder with .wav files and a eventPriorities.txt file.
 The files have to be .wav and have a name like this: (event)_(number).wav.
 
 these are the current events and their priority levels, you can customise them in the voiceline sets eventPriorities.txt.
