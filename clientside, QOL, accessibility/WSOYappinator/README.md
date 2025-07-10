@@ -9,8 +9,8 @@ Currently features:
 * AWACS Sky Eye from Ace Combat (pack by Sneezy)
 
 Folder structure should look something like this:
-
-`bepinex/plugins/
+```
+bepinex/plugins/
   └─ WSOYappinator/
     ├─ WSOYappinator_version.dll
     └─ audio/
@@ -19,7 +19,8 @@ Folder structure should look something like this:
        │  └─ audiofiles.wav
        └─ Galaxy/
           ├─ eventPriorities.txt
-          └─ audiofiles.wav`
+          └─ audiofiles.wav
+```
 
 you can easily add your own voicelines by dropping them into the mod's audio/name folder, or make a whole separate voiceline set by making a new folder with .wav files and a eventPriorities.txt file.
 The files have to be .wav and have a name like this: (event)_(number).wav 
