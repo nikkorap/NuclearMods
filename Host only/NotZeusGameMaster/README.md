@@ -19,3 +19,4 @@ Rebuild nearest airbase
 send message to factions
 
 ![image](https://github.com/nikkorap/NuclearMods/blob/0c3f80ac02ce20f2990bae14cd0d9602c7e3a953/Host%20only/NotZeusGameMaster/image.png)
+![image](https://github.com/nikkorap/NuclearMods/blob/5e851c8b72490ed991abd05e1d3c595a3c51bbe2/Host%20only/NotZeusGameMaster/image2.png)
