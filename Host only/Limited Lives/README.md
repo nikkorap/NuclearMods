@@ -1,4 +1,4 @@
-## OneLife SAR
+## Limited lives
 
 Dont want players in your server going on suicide runs? then grab this!
 this mod heavily encourages returning to base safely.
