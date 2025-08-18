@@ -1,4 +1,6 @@
-## Deprecated, see this much better version by Truffle! https://github.com/TruffleWolf/NO_Jamming_Edits
+## Deprecated
+take a look at this much better version by Truffle! 
+https://github.com/TruffleWolf/NO_Jamming_Edits
 
 ## Jam Sound Replacer
 
