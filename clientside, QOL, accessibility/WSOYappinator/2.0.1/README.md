@@ -1,6 +1,6 @@
 # WSO Yappinator voicepacks
 
-* [Prez (by Nikkorap)](/clientside%2C%20QOL%2C%20accessibility/WSOYappinator/2.0.1/audio/Prez%20(by%20Nikkorap).7z)
+* [Prez (by Nikkorap)](/clientside%2C%20QOL%2C%20accessibility/WSOYappinator/2.0.1/audio/Prez%20(by%20Nikkorap).7z?raw=1)
 * [Galaxy2 (by Nikkorap)](audio/Galaxy2%(by%Nikkorap).7z?raw=1)
 * [AWACS Sky Eye (by Littlesneez)](audio/AWACS%Sky%Eye%(by%Littlesneez).7z?raw=1)
 * [Pixy (by Littlesneez)](audio/Pixy%(by%Littlesneez).7z?raw=1)
