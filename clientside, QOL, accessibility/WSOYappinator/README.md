@@ -3,7 +3,7 @@
 Get a variety of characters to yap at you while you fly!
 
 ## Unzip the downloaded files in `BepInEx/plugins`
-* [Download mod + voicepacks](https://github.com/nikkorap/NuclearMods/raw/refs/heads/main/clientside,%20QOL,%20accessibility/WSOYappinator/WSOYappinator_1.0.8_FULL_PACK.7z)
+* [Download mod + voicepacks](1.0.8/WSOYappinator_1.0.8.dll)
 * [Download extra voicepacks](https://github.com/nikkorap/NuclearMods/raw/refs/heads/main/clientside,%20QOL,%20accessibility/WSOYappinator/WSOYappinator_1.0.8_FULL_PACK_Part2.7z)
 * [Browse all published voicepacks](https://github.com/nikkorap/NuclearMods/tree/main/clientside%2C%20QOL%2C%20accessibility/WSOYappinator/1.0.8/audio)
 
