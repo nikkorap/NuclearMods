@@ -19,3 +19,5 @@ bepinex/plugins/
           └─ audiofiles.wav
 ```
 ## How to make new Packs
+
+todo
