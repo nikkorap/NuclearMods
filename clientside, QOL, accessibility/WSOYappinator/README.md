@@ -2,7 +2,7 @@
 
 Get a variety of characters to yap at you while you fly!
 
-* [Download mod](2.0.1/com.nikkorap.WSOYappinator_2.0.1.dll?raw=1)
+* [Download mod](https://github.com/nikkorap/NuclearMods/raw/refs/heads/main/clientside,%20QOL,%20accessibility/WSOYappinator/2.0.1/com.nikkorap.WSOYappinator_2.0.1.dll)
 * [Browse Voicepacks](2.0.1/audio) (to download, click on the desired pack, then click "download raw file" on the right)
 
 Folder structure should look like this:
