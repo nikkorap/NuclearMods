@@ -2,7 +2,7 @@
 
 Get a variety of characters to yap at you while you fly!
 
-## [Download mod](2.0.1/WSOYappinator_2.0.1.dll)
+## [Download mod](2.0.1/)
 
 ## [Browse Voicepacks](2.0.1/audio)
 
