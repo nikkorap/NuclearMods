@@ -1,7 +1,7 @@
 # NuclearMods [For Nuclear Option 0.31] (mostly)
 My BepInEx mods for Nuclear Option, feel free to DM me on discord if you have any questions or ideas.
 
-# How to install BepInEx (5 mono) guide [https://docs.bepinex.dev/articles/user_guide/installation/index.html]
+# [How to install BepInEx (5 mono) guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html)
 
 TLDR:
 1. Download the correct version of BepInEx (bepinex 5 mono) [https://github.com/BepInEx/BepInEx]
